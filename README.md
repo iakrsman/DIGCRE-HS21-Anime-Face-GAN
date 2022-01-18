@@ -38,8 +38,15 @@ The actual training was performed for 47.5 hours in total. The latest .pkl file 
 
 ## Results  
 So now to the interessting part! 
+  
+![imagefakes](doc/fakes000024.jpg)  
+One of the first fake seeds 
 
+![image2fakes](doc/fakes000202.jpg)
+Latest fake seeds after 47.5h training
 
+**Linear Interpolation with 7 random seeds**  
+<img src="doc/interpolation.gif" data-canonical-src="doc/interpolation.gif" width="256" height="256" />
 
 ## Problems faced during the project  
 **Dataset Size for training**  
